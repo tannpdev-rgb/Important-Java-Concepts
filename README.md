@@ -1,6 +1,8 @@
 # Java & Related Concepts 
 ![java banner](https://user-images.githubusercontent.com/2780145/109359092-dcda4e80-78aa-11eb-894b-935336d29af1.png)
 
+🇺🇸 English | [🇻🇳 Tiếng Việt](README_VN.md)
+
 **This Repo contains Notes and Programs on following topics :**
 - *Java Fundamentals*
 - *Java Object-Oriented Programming*

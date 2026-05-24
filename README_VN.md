@@ -1,6 +1,8 @@
 # Java & Các Khái Niệm Liên Quan
 ![java banner](https://user-images.githubusercontent.com/2780145/109359092-dcda4e80-78aa-11eb-894b-935336d29af1.png)
 
+[🇺🇸 English](README.md) | 🇻🇳 Tiếng Việt
+
 **Repository này chứa các Ghi chú và Chương trình về các chủ đề sau:**
 - *Nền tảng Java (Java Fundamentals)*
 - *Lập trình Hướng đối tượng trong Java (Java Object-Oriented Programming)*
